@@ -57,5 +57,5 @@
 
 ## PROJE GÖRÜNTÜSÜ
 
-![Görsel](/kron_app_frontend/src/assets/excelss.png)
+![Görsel](/jira_app_frontend/src/assets/excelss.png)
 
