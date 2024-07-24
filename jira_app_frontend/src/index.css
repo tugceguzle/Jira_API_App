@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-left-yellow {
+  border-left: 16px solid #9859E5; /* Sarı renkli kalın çizgi */
+}
+
+.th-td-style {
+  @apply px-4 py-2 border-b;
+}
+.input-style {
+  @apply px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-custom-purple;
+}
